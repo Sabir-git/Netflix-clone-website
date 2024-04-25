@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+background-image: url('header-image.png');    
+
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+img{
+    width: 170px;
+    height: 70px;
+}
+#head{
+    color: aliceblue;
+    font-size: xx-large;
+}
+.box{
+    width: 380px;
+    height: 400px;
+    text-align: center;
+    background-color: black;
+    
+
+}
+#email{
+    width: 345px;
+    height: 40px;
+    margin-top: 40px;
+    padding-left: 20px;
+    border: none;
+    border-radius: 5px;
+}
+#pass{
+    width: 345px;
+    height: 40px;
+    margin-top: 12px;
+    padding-left: 20px;
+    border: none;
+    border-radius: 5px;
+
+}
+#btn{
+    width: 345px;
+    height: 40px;
+    margin-top: 12px;
+    padding-left: 5%;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+}
+#Forgot{
+    color: white;
+    margin: 100px;
+    
+    
+    
+
+}
